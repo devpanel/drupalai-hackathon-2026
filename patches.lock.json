@@ -15,7 +15,7 @@
             {
                 "package": "drupal/core",
                 "description": "#3564735: Synthetic service (kernel) error during non-interactive install from existing config in Drupal 11.3",
-                "url": "https://git.drupalcode.org/project/drupal/-/merge_requests/14169.patch",
+                "url": "https://git.drupalcode.org/project/drupal/-/commit/a7b70e012d087ab36f1192ee3759ac077448edde.patch",
                 "sha256": "71fb6ea138a76694e061d9180489fdaf1008f6c9bfdd766cc1fb3ae5f06bd5f1",
                 "depth": 2,
                 "extra": {
